@@ -1,0 +1,75 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CALCUATOR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CALCUATOR_jar</output-path>
+    <root id="archive" name="CALCUATOR.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CALCUATOR" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar" path-in-jar="/" />
+      <element id="file-copy" path="/bin/7z" />
+      <element id="file-copy" path="/bin/7za" />
+      <element id="file-copy" path="/bin/7zr" />
+      <element id="file-copy" path="/bin/411toppm" />
+      <element id="file-copy" path="/bin/[" />
+      <element id="file-copy" path="/bin/aa-enabled" />
+      <element id="file-copy" path="/bin/aa-exec" />
+      <element id="file-copy" path="/bin/aa-features-abi" />
+      <element id="file-copy" path="/bin/aconnect" />
+      <element id="file-copy" path="/bin/acpi_listen" />
+      <element id="file-copy" path="/bin/add-apt-repository" />
+      <element id="file-copy" path="/bin/add-remove-locales" />
+      <element id="file-copy" path="/bin/addpart" />
+      <element id="file-copy" path="/bin/addr2line" />
+      <element id="file-copy" path="/bin/airscan-discover" />
+      <element id="file-copy" path="/bin/alsabat" />
+      <element id="file-copy" path="/bin/alsaloop" />
+      <element id="file-copy" path="/bin/alsamixer" />
+      <element id="file-copy" path="/bin/alsatplg" />
+      <element id="file-copy" path="/bin/alsaucm" />
+      <element id="file-copy" path="/bin/amidi" />
+      <element id="file-copy" path="/bin/amixer" />
+      <element id="file-copy" path="/bin/amuFormat.sh" />
+      <element id="file-copy" path="/bin/animate" />
+      <element id="file-copy" path="/bin/animate-im6" />
+      <element id="file-copy" path="/bin/animate-im6.q16" />
+      <element id="file-copy" path="/bin/anytopnm" />
+      <element id="file-copy" path="/bin/apg" />
+      <element id="file-copy" path="/bin/apgbfm" />
+      <element id="file-copy" path="/bin/aplay" />
+      <element id="file-copy" path="/bin/aplaymidi" />
+      <element id="file-copy" path="/bin/appres" />
+      <element id="file-copy" path="/bin/appstreamcli" />
+      <element id="file-copy" path="/bin/apropos" />
+      <element id="file-copy" path="/bin/apt" />
+      <element id="file-copy" path="/bin/apt-add-repository" />
+      <element id="file-copy" path="/bin/apt-cache" />
+      <element id="file-copy" path="/bin/apt-cdrom" />
+      <element id="file-copy" path="/bin/apt-changelog" />
+      <element id="file-copy" path="/bin/apt-clone" />
+      <element id="file-copy" path="/bin/apt-config" />
+      <element id="file-copy" path="/bin/apt-extracttemplates" />
+      <element id="file-copy" path="/bin/apt-ftparchive" />
+      <element id="file-copy" path="/bin/apt-get" />
+      <element id="file-copy" path="/bin/apt-key" />
+      <element id="file-copy" path="/bin/apt-mark" />
+      <element id="file-copy" path="/bin/apt-sortpkgs" />
+      <element id="file-copy" path="/bin/aptdcon" />
+      <element id="file-copy" path="/bin/aptitude" />
+      <element id="file-copy" path="/bin/aptitude-changelog-parser" />
+      <element id="file-copy" path="/bin/aptitude-create-state-bundle" />
+      <element id="file-copy" path="/bin/aptitude-curses" />
+      <element id="file-copy" path="/bin/aptitude-run-state-bundle" />
+      <element id="file-copy" path="/bin/apturl" />
+      <element id="file-copy" path="/bin/apturl-gtk" />
+      <element id="file-copy" path="/bin/ar" />
+    </root>
+  </artifact>
+</component>
